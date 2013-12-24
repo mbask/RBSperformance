@@ -1,0 +1,6 @@
+export(getFinalSegmentVolumeFunction)
+export(getIntermediateVolumeFunction)
+export(getProxyFunction)
+export(getRSEm)
+export(getSegmentVHat)
+export(getVHat)

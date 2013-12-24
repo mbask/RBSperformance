@@ -1,0 +1,20 @@
+Package: RBSperformance
+Type: Package
+Title: An R package to aid in RBS estimations
+Version: 0.1
+Date: 2013-12-09
+Author: Marco Bascietto <marco.bascietto@ibaf.cnr.it>
+Maintainer: Marco Bascietto <marco.bascietto@ibaf.cnr.it>
+Description: RBS is an unbiased method to assess a target variable by sampling
+    a proxy variable with conditional probability. The package mainly fulfulls
+    the aim of assessing the precision of RBS estimates compared to actual
+    measurements
+License: GPL-2
+Collate:
+    'RBSperformance.R'
+    'getSegmentVHat.R'
+    'getVHat.R'
+    'getRSEm.R'
+    'getProxyFunction.R'
+    'getFinalSegmentVolumeFunction.R'
+    'getIntermediateVolumeFunction.R'
