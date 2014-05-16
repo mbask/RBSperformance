@@ -4,6 +4,8 @@ RBSperformance
 R package to aid in assessing performance of Randomized Branch Sampling
 
 ![DOI link](https://zenodo.org/badge/doi/10.5281/zenodo.9908.png)
+http://doi.org/10.5281/zenodo.9908
+
 
 ### Install
 
